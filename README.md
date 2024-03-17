@@ -21,11 +21,13 @@ By following these steps, you should be able to set up and run the server for ex
 
 ## Usage
 
-1. **Connecting to MongoDB**: The server establishes a connection to MongoDB using the `mongoConnect.py` file.
+1. **Unzip the data folder sample_mflix**: It contains all the data we need to work on. 
 
-2. **Inserting Data**: Data insertion is facilitated through the `insertData.py` file.
+2. **Connecting to MongoDB**: The server establishes a connection to MongoDB using the `mongoConnect.py` file.
 
-3. **Executing Queries**: The main functionality of the server involves executing various queries on MongoDB collections. This is achieved through functions defined in files such as `fourA.py`, `fourB.py`, and `fourC.py`.
+3. **Inserting Data**: Data insertion is facilitated through the `insertData.py` file.
+
+4. **Executing Queries**: The main functionality of the server involves executing various queries on MongoDB collections. This is achieved through functions defined in files such as `fourA.py`, `fourB.py`, and `fourC.py`.
 
 ## Running the Server
 
